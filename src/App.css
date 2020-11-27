@@ -27,10 +27,11 @@
 
 
 .section-title {
-  font-size: 3rem;
-  color: black;
+  font-size: 4rem;
+  color: #17b978;
   padding-top:3% ;
-  padding-bottom: 2%;
+  /* padding-bottom: 2%; */
+  margin-bottom: 2%;
 }
 
 .space  {
@@ -64,7 +65,7 @@
   margin: auto;
   width: 30rem;
   color: black;
-  background-color: rgb(247, 165, 89);
+  background-color:#46cdcf;
 
 }
 
@@ -73,7 +74,7 @@
   margin: auto;
   width: 20rem;
   color: black;
-  background-color: rgb(247, 165, 89);
+  background-color: #46cdcf;
 
 }
 
@@ -109,7 +110,8 @@
 }
 .active,
 .row-pad{
-  background: rgb(247, 165, 89) !important ;
+  background: #46cdcf !important ;
+  border: #46cdcf !important;
 }
 
 .tabel-pad{
@@ -119,11 +121,22 @@
   text-align: left;
 }
 
+.tabel-pad-bg{
+  background-color: #46cdcf;
+  color: white;
+}
+
 .section-title{
   text-align: center;
 }
 
+.btn-primary {
+  border: #17b978;
+  background-color: #17b978;
+}
 
-
-
+.btn:hover,
+.btn:active {
+  background-color: #3d84a8;
+}
 

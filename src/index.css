@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Courgette", cursive;
-  background-color: chocolate;
+  background-color: #086972;
 }
 
 code {
@@ -55,7 +55,7 @@ a {
 }
 
 .col-title {
-  color: black;
+  color: #17b978;
 }
 
 .col-title ul {
