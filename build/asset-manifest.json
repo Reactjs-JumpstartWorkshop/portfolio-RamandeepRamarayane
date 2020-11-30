@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b201cf3.chunk.css",
+    "main.js": "/static/js/main.bdc1a4ce.chunk.js",
+    "main.js.map": "/static/js/main.bdc1a4ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ffb6ad8b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ffb6ad8b.js.map",
+    "static/js/2.38709330.chunk.js": "/static/js/2.38709330.chunk.js",
+    "static/js/2.38709330.chunk.js.map": "/static/js/2.38709330.chunk.js.map",
+    "static/js/3.f489bfd3.chunk.js": "/static/js/3.f489bfd3.chunk.js",
+    "static/js/3.f489bfd3.chunk.js.map": "/static/js/3.f489bfd3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4b201cf3.chunk.css.map": "/static/css/main.4b201cf3.chunk.css.map",
+    "static/js/2.38709330.chunk.js.LICENSE.txt": "/static/js/2.38709330.chunk.js.LICENSE.txt",
+    "static/media/certi1.e95a8806.JPG": "/static/media/certi1.e95a8806.JPG",
+    "static/media/coming-soon.ec68f3b2.png": "/static/media/coming-soon.ec68f3b2.png",
+    "static/media/css3.9407ad35.png": "/static/media/css3.9407ad35.png",
+    "static/media/js.ba0a9285.png": "/static/media/js.ba0a9285.png",
+    "static/media/project01.9e03fe05.JPG": "/static/media/project01.9e03fe05.JPG",
+    "static/media/react.20adfb35.png": "/static/media/react.20adfb35.png",
+    "static/media/vue.b87f6338.png": "/static/media/vue.b87f6338.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb6ad8b.js",
+    "static/js/2.38709330.chunk.js",
+    "static/css/main.4b201cf3.chunk.css",
+    "static/js/main.bdc1a4ce.chunk.js"
+  ]
+}

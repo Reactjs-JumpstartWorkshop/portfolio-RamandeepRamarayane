@@ -1,0 +1,142 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.section-title {
+  font-size: 4rem;
+  color: #17b978;
+  padding-top:3% ;
+  /* padding-bottom: 2%; */
+  margin-bottom: 2%;
+}
+
+.space  {
+  padding-bottom: 5%;
+}
+
+
+/* Intro Section */
+
+.intro-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 49%;
+  box-shadow: 5px 5px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+.h1 {
+  color: aqua;
+}
+
+.project-div{
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 4% 0;
+}
+
+.card {
+  padding: 8% 0 0 0;
+  margin: auto;
+  width: 30rem;
+  color: black;
+  background-color:#46cdcf;
+
+}
+
+.side-card {
+  padding: 8% 0 0 0;
+  margin: auto;
+  width: 20rem;
+  color: black;
+  background-color: #46cdcf;
+
+}
+
+
+.skills-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-bottom: 4%;
+}
+
+.card-div{
+  max-width: 540px;
+}
+
+.col-md-4 img {
+  width: 100px;
+}
+
+.css3 img{
+  width: 90px;
+}
+
+.row-pad {
+  width: 90%;
+  margin: auto;
+  padding: 0 0 0 1%;
+  font-size: 1.6rem;
+
+}
+
+.padd {
+  padding: 2% 0;
+}
+.active,
+.row-pad{
+  background: #46cdcf !important ;
+  border: #46cdcf !important;
+}
+
+.tabel-pad{
+  width: 90%;
+  margin: auto;
+  font-size: 1.4rem;
+  text-align: left;
+}
+
+.tabel-pad-bg{
+  background-color: #46cdcf;
+  color: white;
+}
+
+.section-title{
+  text-align: center;
+}
+
+.btn-primary {
+  border: #17b978;
+  background-color: #17b978;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #3d84a8;
+}
+
